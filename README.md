@@ -16,4 +16,8 @@ Recently, predicting 3D semantic occupancy from images has become popular in sel
 
 - `[2025-03-28]` This Git repository has been created.
 
----
+## Acknowledgement 
+Many thanks to the following open-source projects:
+* [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
+* [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
+* [Occ3D-nuScenes](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)
